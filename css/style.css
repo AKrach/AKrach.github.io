@@ -1,0 +1,70 @@
+/*box outline*/
+/** {
+  outline: 1px solid red;
+}*/
+header {
+  margin-bottom: 50px;
+}
+/*Changing the navbar elements*/
+.navbar-inverse .navbar-brand {
+  font: Georgia;
+  font-size: 30px;
+  color: white;
+}
+button {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+/*main content area*/
+.two {
+  border: 5px solid #A8FFFC;
+  background-color: #A8FFFC;
+  border-radius: 25px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+.pic {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+.txt {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: 18px;
+  border: 5px solid grey;
+  border-radius: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+/*
+.two {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.pic {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.txt {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: 18px
+}*/
